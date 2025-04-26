@@ -4,8 +4,7 @@ toc: false
 ---
 
 {{< cards >}}
-  {{< card link="/" title="Guifu Liu" image="/images/headshot.jpg" subtitle="Masters by Research student at School of Informatics, University of Edinburgh  
-  " >}}
+  {{< card link="/" title="Guifu Liu" image="/images/headshot.jpg" subtitle="Masters by Research student at School of Informatics, University of Edinburgh" >}}
 {{< /cards >}}
 
 Hi! I'm Guifu, a Masters by Research student at the [Institute for Language, Cognition and Computation](https://informatics.ed.ac.uk/ilcc), University of Edinburgh. Currently I'm co-supervised by [Prof. Bonnie Webber](https://homepages.inf.ed.ac.uk/bonnie/) and [Prof. Hannah Rohde](http://www.lel.ed.ac.uk/~hrohde/). 
