@@ -2,7 +2,7 @@
 title: 
 toc: false
 ---
-<img style="float: right; padding: 0px 5px 0px 5px;" align="right" src="/images/headshot.jpg" alt="Headshot" width="150"/>
+<img align="right" src="/images/headshot.jpg" alt="Headshot" width="150"/>
 
 ## Guifu Liu
 
