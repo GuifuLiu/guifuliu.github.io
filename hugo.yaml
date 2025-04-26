@@ -27,10 +27,40 @@ menu:
     # - name: About
     #   pageRef: /about
     #   weight: 2
-    - name: LinkedIn
+    - name: LinkedIn ↗
       url: "https://www.linkedin.com/in/guifu-liu/"
       weight: 2
-    - name: Email
+    - name: Email ↗
+      url: "mailto:G.Liu-18@sms.ed.ac.uk"
+      weight: 3
+    # - name: Search
+    #   weight: 4
+    #   params:
+    #     type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/GuifuLiu/guifuliu.github.io"
+      params:
+        icon: github
+    # - name: Twitter
+    #   weight: 5
+    #   url: "https://twitter.com/"
+    #   params:
+    #     icon: x-twitter
+  sidebar:
+    - name: Home
+      pageRef: /
+      weight: 1
+    # - name: Pr
+    #   pageRef: /docs
+    #   weight: 1
+    # - name: About
+    #   pageRef: /about
+    #   weight: 2
+    - name: LinkedIn ↗
+      url: "https://www.linkedin.com/in/guifu-liu/"
+      weight: 2
+    - name: Email ↗
       url: "mailto:G.Liu-18@sms.ed.ac.uk"
       weight: 3
     # - name: Search
