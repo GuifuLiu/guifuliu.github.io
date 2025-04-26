@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Home
+      pageRef: /
+      weight: 1
     # - name: Pr
     #   pageRef: /docs
     #   weight: 1
@@ -47,13 +50,8 @@ menu:
 
 params:
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: false
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
-
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
