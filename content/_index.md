@@ -2,11 +2,6 @@
 title: 
 toc: false
 ---
-<!-- {{< cards >}}
-  {{< card link="/" title="Guifu Liu" image="" subtitle="Masters by Research student at School of Informatics, University of Edinburgh" >}}
-{{< /cards >}} -->
-
-<!-- {{< hextra/hero-container image="/images/headshot.jpg" imageWidth="200" imageTitle="Headshot" >}} -->
 
 <div class="image-wrapper">
   <img src="/images/headshot.jpg" alt="Headshot" width="300" />
