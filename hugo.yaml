@@ -49,9 +49,14 @@ menu:
     #     icon: x-twitter
 
 params:
+
   navbar:
     displayTitle: false
     displayLogo: false
+
+  theme:
+    # light | dark | system
+    default: light
 
   footer:
     enable: false

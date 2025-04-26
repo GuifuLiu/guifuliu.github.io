@@ -2,7 +2,7 @@
 title: 
 toc: false
 ---
-<img align="right" src="/images/headshot.jpg" alt="Headshot" width="180"/>
+<img align="right" src="/images/headshot.png" alt="Headshot" width="180"/>
 
 ### Guifu Liu
 
