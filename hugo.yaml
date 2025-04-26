@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Guifu Liu
+title: 
 
 # import hextra as module
 module:
@@ -28,7 +28,7 @@ menu:
       url: "https://www.linkedin.com/in/guifu-liu/"
       weight: 2
     - name: Email
-      url: "G.Liu-18@sms.ed.ac.uk"
+      url: "mailto:G.Liu-18@sms.ed.ac.uk"
       weight: 3
     # - name: Search
     #   weight: 4
